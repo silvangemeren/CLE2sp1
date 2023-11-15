@@ -1,0 +1,51 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body{
+   color: transparent; 
+}
+
+.navbar{
+    background-color: transparent;
+    color: aliceblue;
+    font-size: x-large;
+    margin-bottom: -100px;
+}
+
+.navhead{
+    background-image: url(/images/IMG-20231031-WA0001\ \(2\).jpg);
+    color: antiquewhite;
+    background-size: contain;
+    margin-bottom: -100px;
+}
+
+.navbar-item{
+    color: aliceblue;
+}
+
+.navbar-link {
+    color: aliceblue;
+}
+
+.navbar-link a:hover{
+    background-color: rgb(186, 1, 1);
+}
+
+.navbar-dropdown{
+    background-color: rgb(186, 1, 1);
+}
+
+.title{
+    color: aliceblue;
+}
+
+.subtitle{
+    color: aliceblue;
+}
+
+.hero-body{
+    background-color: rgb(186, 1, 1);
+}
+
+.footer{
+    background-color: aliceblue;
+}
